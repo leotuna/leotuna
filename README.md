@@ -1,5 +1,4 @@
 ## Hey 👋
 I'm Leonardo Tuna.
-I'm a full stack web developer :computer:
-
-- :computer:   ASP.NET Core and React
+I'm a developer :computer:
+Most of the time, I'm writing APIs in C# and user interfaces with React. 😁
